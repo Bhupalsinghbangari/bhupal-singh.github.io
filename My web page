@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Bhupal Singh | Optics & Light–Matter Interaction</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f6f6f6;
+      color: #222;
+    }
+    header {
+      background: #1a237e;
+      color: white;
+      padding: 2rem;
+      text-align: center;
+    }
+    nav {
+      background: #283593;
+      padding: 1rem;
+      text-align: center;
+    }
+    nav a {
+      color: white;
+      text-decoration: none;
+      margin: 0 1rem;
+      font-weight: bold;
+    }
+    .container {
+      max-width: 900px;
+      margin: 2rem auto;
+      padding: 1rem;
+      background: white;
+      border-radius: 8px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    }
+    h2 {
+      color: #1a237e;
+    }
+    footer {
+      text-align: center;
+      padding: 2rem;
+      margin-top: 3rem;
+      background: #1a237e;
+      color: white;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Bhupal Singh</h1>
+    <p>PhD Scholar, IISER Mohali | Optics & Light–Matter Interaction</p>
+  </header>
+
+  <nav>
+    <a href="#about">About</a>
+    <a href="#research">Research</a>
+    <a href="#publications">Publications</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <div class="container" id="about">
+    <h2>About Me</h2>
+    <p>
+      I am a PhD scholar at IISER Mohali in the Department of Physics. My research focuses on optics and light–matter interaction, including laser physics, electromagnetic field theory, and nanosecond laser engineering.
+    </p>
+  </div>
+
+  <div class="container" id="research">
+    <h2>Research Interests</h2>
+    <ul>
+      <li>Classical and quantum optics</li>
+      <li>Light–matter interaction</li>
+      <li>Laser physics and Q-switching mechanisms</li>
+      <li>Optomechanics</li>
+      <li>Radiation pressure and electromagnetic forces</li>
+    </ul>
+  </div>
+
+  <div class="container" id="publications">
+    <h2>Publications</h2>
+    <p>(Add your publications here)</p>
+  </div>
+
+  <div class="container" id="contact">
+    <h2>Contact</h2>
+    <p>Email: your-email@institution.ac.in</p>
+    <p>Affiliation: IISER Mohali, India</p>
+  </div>
+
+  <footer>
+    © 2025 Bhupal Singh | Optics & Light–Matter Interaction
+  </footer>
+</body>
+</html>
